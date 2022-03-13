@@ -1,7 +1,7 @@
-# java-designpatterns
-### Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code
+## java-designpatterns
+##### Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code
 
-## Creational - Patterns
+### Creational - Patterns
 Creational pattrens delas with object creation. Complexity and coupling associated with new object creation and addresses it.
 
 - Singleton
@@ -11,7 +11,7 @@ Creational pattrens delas with object creation. Complexity and coupling associat
 - Object Pool
 - Prototype
 
-## Structural - Patterns
+### Structural - Patterns
 Structural patterns are about class and objects composition.Use of inheritance and association to compose functionality.
 
 - Adapter
@@ -23,7 +23,7 @@ Structural patterns are about class and objects composition.Use of inheritance a
 - Private class data
 - Proxy
 
-## Behavioral - Patterns
+### Behavioral - Patterns
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 - Chain of Responsibilty
